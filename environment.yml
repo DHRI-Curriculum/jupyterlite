@@ -8,5 +8,4 @@ dependencies:
   - matplotlib
   - ipycanvas
   - nltk
-  - spacy
-  - notebook
+  - seaborn
